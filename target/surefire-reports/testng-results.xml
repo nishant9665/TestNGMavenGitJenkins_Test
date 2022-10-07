@@ -2,26 +2,26 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="28501" started-at="2022-10-07T10:12:08 IST" finished-at="2022-10-07T10:12:37 IST">
+  <suite name="Suite" duration-ms="12914" started-at="2022-10-07T11:51:47 IST" finished-at="2022-10-07T11:52:00 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="28501" started-at="2022-10-07T10:12:08 IST" finished-at="2022-10-07T10:12:37 IST">
+    <test name="Test" duration-ms="12914" started-at="2022-10-07T11:51:47 IST" finished-at="2022-10-07T11:52:00 IST">
       <class name="all_example.ScreensShot">
-        <test-method status="PASS" signature="ScreenShotTest()[pri:0, instance:all_example.ScreensShot@1f28c152]" name="ScreenShotTest" duration-ms="11947" started-at="2022-10-07T10:12:25 IST" finished-at="2022-10-07T10:12:37 IST">
+        <test-method status="PASS" signature="ScreenShotTest()[pri:0, instance:all_example.ScreensShot@1f28c152]" name="ScreenShotTest" duration-ms="4889" started-at="2022-10-07T11:51:55 IST" finished-at="2022-10-07T11:52:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ScreenShotTest -->
       </class> <!-- all_example.ScreensShot -->
       <class name="all_example.GoogleHomePageTest">
-        <test-method status="PASS" signature="testSetUp()[pri:0, instance:all_example.GoogleHomePageTest@60c6f5b]" name="testSetUp" is-config="true" duration-ms="8374" started-at="2022-10-07T10:12:08 IST" finished-at="2022-10-07T10:12:17 IST">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:all_example.GoogleHomePageTest@60c6f5b]" name="testSetUp" is-config="true" duration-ms="4464" started-at="2022-10-07T11:51:47 IST" finished-at="2022-10-07T11:51:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetUp -->
-        <test-method status="PASS" signature="verifyGooglePageTittle()[pri:0, instance:all_example.GoogleHomePageTest@60c6f5b]" name="verifyGooglePageTittle" duration-ms="7280" started-at="2022-10-07T10:12:17 IST" finished-at="2022-10-07T10:12:24 IST">
+        <test-method status="PASS" signature="verifyGooglePageTittle()[pri:0, instance:all_example.GoogleHomePageTest@60c6f5b]" name="verifyGooglePageTittle" duration-ms="2875" started-at="2022-10-07T11:51:51 IST" finished-at="2022-10-07T11:51:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyGooglePageTittle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:all_example.GoogleHomePageTest@60c6f5b]" name="tearDown" is-config="true" duration-ms="827" started-at="2022-10-07T10:12:24 IST" finished-at="2022-10-07T10:12:25 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:all_example.GoogleHomePageTest@60c6f5b]" name="tearDown" is-config="true" duration-ms="653" started-at="2022-10-07T11:51:54 IST" finished-at="2022-10-07T11:51:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

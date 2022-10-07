@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="19.234" tests="2" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="7.765" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Users\nishant.narwade\Desktop\Nishant\Software and Keys\xyz\Java\jdk1.8.0_31\jre\bin"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="C:\Users\nishant.narwade\Desktop\Nishant\SDET_Code\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5770575629222762957.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\nishant.narwade\Desktop\Nishant\SDET_Code\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf450271330916062027.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Users\nishant.narwade\Desktop\Nishant\Software and Keys\xyz\Java\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/nishant.narwade/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/bin/server;C:/Users/nishant.narwade/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/bin;C:\Python39\Scripts\;C:\Python39\;C:\Program Files\Python37\Scripts\;C:\Program Files\Python37\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\OpenVPN\bin;C:\Users\nishant.narwade\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7\Scripts\;C:\Users\nishant.narwade\Desktop\NIshant\Software and Keys\xyz\Java\jdk1.8.0_31\bin;C:\Users\nishant.narwade\Desktop\NIshant\Software and Keys\apache-maven-3.8.1-bin\apache-maven-3.8.1\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs;C:\Users\nishant.narwade\Desktop\NIshant\Software and Keys\allure-2.14.0\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\nishant.narwade\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Users\nishant.narwade\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\nishant.narwade\AppData\Roaming\npm;C:\Program Files\nodejs;;C:\Users\nishant.narwade\Desktop;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -43,7 +43,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Users\nishant.narwade\Desktop\Nishant\Software and Keys\xyz\Java\jdk1.8.0_31\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -60,6 +60,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="verifyGooglePageTittle" classname="all_example.GoogleHomePageTest" time="7.287"/>
-  <testcase name="ScreenShotTest" classname="all_example.ScreensShot" time="11.947"/>
+  <testcase name="verifyGooglePageTittle" classname="all_example.GoogleHomePageTest" time="2.876"/>
+  <testcase name="ScreenShotTest" classname="all_example.ScreensShot" time="4.889"/>
 </testsuite>
